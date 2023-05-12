@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['0764497079', 'sandaru', true],
-  ['6281255369012', 'Ash', true], 
+  ['94789549564', 'NIMESHA', true],
+  ['94789549564', 'NIMESHA', true], 
   [''] 
 ] //Number of owners
 
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝓝𝓘𝓜𝓔𝓢𝓗𝓐 ʷʰᵃᵗˢᵃᵖᵖ ᵇᵒᵗ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'ɴɪᴍᴇꜱʜᴀ_WHATSAPPᴮᴼᵀ' 
+global.author = '@nimesha' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgsc = ' https://github.com/Dasanayakanew'
+global.fgyt = 'https://youtube.com/@sl_hacker_gaming_show'
+global.fgpyp = ' https://youtube.com/@sl_hacker_gaming_show'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
@@ -65,8 +65,10 @@ global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
+global.check = ' ®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®® '
+global.nimesha = ' 💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣😂ᴠɪʀᴜꜱ💔💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣'
 
-global.multiplier = 69 
+global.multiplier = 79 
 global.maxwarn = '3' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
